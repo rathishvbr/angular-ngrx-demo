@@ -1,0 +1,4 @@
+[submodule "ngrx-poc"]
+	path = ngrx-poc
+	url = http://tfs.gfk.com:8080/tfs/StarTrackDevelopment/StarTrack/_git/ngrx-poc
+	branch = master
